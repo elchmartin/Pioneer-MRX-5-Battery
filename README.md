@@ -32,7 +32,10 @@ The pack then releaved 3 Li-ion cells and the mentioned electronics. After cutti
 I ordered 3 original Panasonic Cells, namely "Panasonic NCR18650B 3,6V 3400mAh Li-Ion" (~€22 incl shipping). The old cells were Samsung 2200mAh so I'll be getting a decent upgrade in capacity.
 With my shiny "SkyRC 3000" battery charger, I gave the new cells a discharge and charge individually to make sure they work and have somethat the correct capacity. They have. 
 Also I decided to work with a battery holder for the cells (ebay, ~€5, but it was shipped from china). This brings along a little issue, more on that later.
-After placing the cells in the holder and soldering the pack to the circuit board i fixed the board on the back of the holder. Since I did not have shinking tube in a mathing size, I decided to wrap everything together with non-conductive tape. On the side with the board I also placed some foamy stuff as some sort of shock absorber. This will later face the electronics within the speaker itself.
+After placing the cells in the holder and soldering the pack to the circuit board i fixed the board on the back of the holder. Since I did not have shinking tube in a mathing size, I decided to wrap everything together with non-conductive tape.
+With the battery holder it did not fit in the battery compartment of the case anymore. So, on the side with the board I also placed some foamy stuff as some sort of shock absorber. This will later face the electronics within the speaker itself.
 
 Putting everyhing together temporarily (battery pack last!) I crossed my fingers and hit the power button. It works! And also plays music and stuff.
 Next step is to put everything together carefully and neatly. After this I performed a quick rattling test to see whether I left somethin inside that does not belong there ot if the battery pac moves. Nothing was heard. I consider this a win, maybe even for the environment, but most of all for me. Plus a rainy sunday afternoon well spent.
+
+I took all kinds of photos, my plan is to make this a rather nice documentation on that I did and encourage others to also repair their MRX-5 or other units not meant to be serviced.
